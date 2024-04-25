@@ -951,7 +951,7 @@ a[class*=card]:hover .title {
 .card-banner .card-body {
   background-size: cover;
   position: relative;
-  z-index: 50;
+  z-index: 10;
 }
 .card-banner .caption {
   background-color: rgba(0, 0, 0, 0.65);
